@@ -1,0 +1,8 @@
+这里需要放置以下图片：
+1. cover.jpg - 广告数据分析项目的封面图片
+2. channel_comparison.jpg - 渠道效果对比分析图
+3. time_trend.jpg - 时间序列分析图
+4. attribution.jpg - 归因分析图
+5. budget_optimization.jpg - 预算优化模型图
+
+请将这些图片放置在此目录中，以便项目能够正确显示。 

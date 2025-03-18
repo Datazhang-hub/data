@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <circle cx="16" cy="16" r="16" fill="#f0f0f0"/>
+  <g transform="translate(6,8)">
+    <path d="M10,0 C15,0 20,2 20,7 L20,9 C20,14 15,16 10,16 C5,16 0,14 0,9 L0,7 C0,2 5,0 10,0 Z" fill="#bc2c33" opacity="0.2"/>
+    <path d="M10,0 C5,0 0,2 0,7 L0,9 C0,14 5,16 10,16 C15,16 20,14 20,9 L20,7 C20,2 15,0 10,0 Z M10,2 C14,2 18,3.5 18,7 L18,9 C18,12.5 14,14 10,14 C6,14 2,12.5 2,9 L2,7 C2,3.5 6,2 10,2 Z" fill="#bc2c33"/>
+    <text x="10" y="10" font-family="Arial" font-size="5" text-anchor="middle" font-weight="bold" fill="#bc2c33">SQL</text>
+  </g>
+</svg> 
